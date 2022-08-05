@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently building cool things for the Web3 space.
+Building cool things for the Web3 space.
 
 
 ## 🌐 Socials:
