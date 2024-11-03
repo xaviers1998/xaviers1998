@@ -1,4 +1,3 @@
-<h1>Xavier Santos</h1>
 <h3><em>"Opportunities multiply as they are seized."</em></h3>
 
 <p>
