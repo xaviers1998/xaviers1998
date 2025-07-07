@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- 🔭 **Current Project**: [Beemo](https://beemo.tech) – Market Research AI for investors
+- 🔭 **Current Project**: [ZoneWatch](https://zonewatchpro.com) – Weather intelligence platform for staying ahead of extreme conditions
 - 👨‍💻 **Previous Project**: [Realms](https://www.onrealms.io/showroom/demo) – a 3D web platform for interactive sports collections
 - 📫 **Contact**: business.xsantos@gmail.com
 
