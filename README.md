@@ -4,8 +4,8 @@
   <a href="https://twitter.com/xavitime" target="_blank">
     <img src="https://img.shields.io/twitter/follow/xavitime?logo=twitter&style=for-the-badge" alt="xavitime" />
   </a>
-  <a href="https://beemo.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-beemo.tech-blue?style=for-the-badge" alt="Beemo website"/>
+  <a href="https://www.zonewatchpro.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-zonewatchpro.com-blue?style=for-the-badge" alt="Zonewatch website"/>
   </a>
 </p>
 
