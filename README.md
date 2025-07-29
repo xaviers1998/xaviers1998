@@ -52,9 +52,4 @@
   </a>
 </p>
 
----
-
-### Stats & Activity
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xaviers1998&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 
