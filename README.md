@@ -56,5 +56,5 @@
 
 ### Stats & Activity
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviers1998&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xaviers1998" alt="GitHub Streak" /></a>
 
