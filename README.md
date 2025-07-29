@@ -20,9 +20,6 @@
   <a href="https://twitter.com/xavitime" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="mailto:business.xsantos@gmail.com">
-    <img align="center" src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Email" height="30" width="40"/>
-  </a>
 </p>
 
 ---
