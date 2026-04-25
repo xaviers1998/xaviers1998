@@ -1,52 +1,83 @@
-<h3><em>"Opportunities multiply as they are seized."</em></h3>
+<!-- =========================  HEADER  ========================= -->
 
-<p>
-  <a href="https://twitter.com/xavitime" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/xavitime?logo=twitter&style=for-the-badge" alt="xavitime" />
-  </a>
-  <a href="https://www.zonewatchpro.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-zonewatchpro.com-blue?style=for-the-badge" alt="Zonewatch website"/>
-  </a>
-</p>
+<div align="center">
 
-- 🔭 **Current Project**: [ZoneWatch](https://zonewatchpro.com) – Weather intelligence platform for staying ahead of extreme conditions
-- 👨‍💻 **Previous Project**: [Realms](https://www.onrealms.io/showroom/demo) – a 3D web platform for interactive sports collections
-- 📫 **Contact**: business.xsantos@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Xavier%20Santos&fontSize=56&fontColor=f8fafc&fontAlignY=38&desc=builder%20%E2%80%A2%20engineer%20%E2%80%A2%20founder&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
 
----
+<a href="https://twitter.com/xavitime">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=24&pause=1500&color=F59E0B&center=true&vCenter=true&width=620&lines=%22Opportunities+multiply+as+they+are+seized.%22" alt="quote" />
+</a>
 
-<h3>Connect with Me</h3>
-<p>
-  <a href="https://twitter.com/xavitime" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+</div>
 
----
+<br />
 
-<h3>Languages and Tools</h3>
-<p>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
+<!-- =========================  WORK  =========================== -->
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>— Now Shipping —</h3>
+      <a href="https://zonewatchpro.com">
+        <img src="https://img.shields.io/badge/ZoneWatch_Pro-0f172a?style=for-the-badge&labelColor=0f172a&color=f59e0b" alt="ZoneWatch"/>
+      </a>
+      <p><sub><i>Weather intelligence for extreme conditions.</i></sub></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>— Previously —</h3>
+      <a href="https://www.onrealms.io/showroom/demo">
+        <img src="https://img.shields.io/badge/Realms-1e293b?style=for-the-badge&labelColor=1e293b&color=cbd5e1" alt="Realms"/>
+      </a>
+      <p><sub><i>3D platform for interactive sports collections.</i></sub></p>
+    </td>
+  </tr>
+</table>
 
+<br />
+
+<!-- =========================  STACK  ========================== -->
+
+<div align="center">
+
+### the toolkit
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,aws,docker,tensorflow,tailwind,vercel&theme=dark" alt="stack" />
+</a>
+
+</div>
+
+<br />
+
+<!-- =========================  STATS  ========================== -->
+
+<div align="center">
+
+### in motion
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xaviers1998&show_icons=true&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=cbd5e1&bg_color=0f172a&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviers1998&layout=compact&hide_border=true&title_color=f59e0b&text_color=cbd5e1&bg_color=0f172a&langs_count=8" alt="languages"/>
+
+</div>
+
+<br />
+
+<!-- =========================  CONNECT  ======================== -->
+
+<div align="center">
+
+### find me
+
+<a href="https://twitter.com/xavitime"><img src="https://img.shields.io/badge/-@xavitime-0f172a?style=for-the-badge&logo=x&logoColor=f8fafc&labelColor=0f172a" alt="twitter"/></a>
+&nbsp;
+<a href="mailto:business.xsantos@gmail.com"><img src="https://img.shields.io/badge/-business.xsantos%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=f59e0b&labelColor=0f172a" alt="email"/></a>
+&nbsp;
+<a href="https://www.zonewatchpro.com/"><img src="https://img.shields.io/badge/-zonewatchpro.com-0f172a?style=for-the-badge&logo=icloud&logoColor=f59e0b&labelColor=0f172a" alt="website"/></a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <sub><i>Crafted with intention.</i></sub>
+</div>
