@@ -17,7 +17,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>— Now Shipping —</h3>
+      <h3>— Most Recent Work —</h3>
       <a href="https://zonewatchpro.com">
         <img src="https://img.shields.io/badge/ZoneWatch_Pro-0f172a?style=for-the-badge&labelColor=0f172a&color=f59e0b" alt="ZoneWatch"/>
       </a>
